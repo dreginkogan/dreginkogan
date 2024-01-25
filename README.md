@@ -18,4 +18,4 @@
 
 - Soft and Compliant Robotics
 
-- 3D printing
+- FDM 3D printing
