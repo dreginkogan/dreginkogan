@@ -13,6 +13,7 @@
 <h3 align="left">CAD:</h3>
 <a href="https://www.autodesk.com/products/fusion-360/overview?term=1-YEAR&tab=subscription" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/A/autodesk-fusion-360-logo-7F72A76397-seeklogo.com.png" alt="fusion360" width="40" height="40"/> </a>
 <a href="https://www.onshape.com/en/" target="_blank" rel="noreferrer"> <img src="https://play-lh.googleusercontent.com/yAS9WJJnjlCx77RxIvJSssrixhCdUxnBlM3CuPnQpl8QI3Ez19KreBL4xREc1gtmK_Y" alt="onshape" width="40" height="40"/> </a>
+<a href="https://www.solidworks.com/" target="_blank" rel="noreferrer"> <img src="https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/7e1c19d75085bfb7004db332a7665fc8/large.png" alt="solidworks" width="40" height="40"/> </a>
 </p>
 
 <h3 align="left">Interests</h3>
