@@ -18,6 +18,6 @@
 
 <h3 align="left">Interests</h3>
 
-- Soft and Compliant Robotics
+- Soft and Compliant Bio-Inspired Robotics
 
 - FDM 3D printing
