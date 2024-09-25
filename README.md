@@ -8,7 +8,6 @@
   <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/1200px-Matlab_Logo.png" alt="python" width="40" height="40"/> </a>
 <h3 align="left">3D Printing:</h3>
 <a href="https://www.klipper3d.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Klipper-logo_svg.svg/768px-Klipper-logo_svg.svg.png" alt="klipper" width="40" height="40"/> </a>
-<a href="https://ultimaker.com/software/ultimaker-cura" target="_blank" rel="noreferrer"> <img src="https://inventionstudio.gatech.edu/wp-content/uploads/2018/08/icon.png" alt="cura" width="40" height="40"/> </a>
 <a href="https://github.com/SoftFever/OrcaSlicer" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/SoftFever/OrcaSlicer/main/resources/images/OrcaSlicer.png" alt="orcaslicer" width="40" height="40"/> </a>
 <h3 align="left">CAD:</h3>
 <a href="https://www.autodesk.com/products/fusion-360/overview?term=1-YEAR&tab=subscription" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/A/autodesk-fusion-360-logo-7F72A76397-seeklogo.com.png" alt="fusion360" width="40" height="40"/> </a>
