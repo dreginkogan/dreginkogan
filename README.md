@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Danya</h1>
+<h1 align="center">Hello, I'm Danya</h1>
 <h3 align="center">Mechanical Engineering and Robotics student at Carnegie Mellon University</h3>
 
 <h3 align="left">Languages:</h3>
