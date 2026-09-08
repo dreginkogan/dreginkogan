@@ -11,6 +11,7 @@ Mechanical Engineering & Robotics student at Carnegie Mellon University.
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-E4292F?style=flat-square&logo=dassaultsystemes&logoColor=white)
 ![Fusion 360](https://img.shields.io/badge/Fusion%20360-FF6D00?style=flat-square&logo=autodesk&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
+![Onshape](https://img.shields.io/badge/Onshape-D2001F?style=flat-square&logo=onshape&logoColor=white)
 
 **Software & Scripting**
 
