@@ -28,5 +28,5 @@ Mechanical Engineering & Robotics student at Carnegie Mellon University.
 
 **Fabrication**
 
-CNC Mill & Lathe · Manual Mill & Lathe · FDM 3D Printing · SLA/DLP Resin Printing · Laser Cutting
+CNC Mill & Lathe · Manual Mill & Lathe · FDM 3D Printing · SLA/DLP Resin Printing
 
